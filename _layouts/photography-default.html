@@ -1,0 +1,24 @@
+<!DOCTYPE html>
+<html lang="{{ page.lang | default: "en" }}">
+{%- include photography-head.html -%}
+  <body a="{{ site.theme_config.appearance | default: "auto" }}">
+    <main class="page-content" aria-label="Content">
+      <div class="container">
+        {{ content }}
+      </div>
+      <div class="w">
+        <div class="i">
+          {%- include icons.html -%}
+        </div>
+        <font size="2"><i>&copy; Stefan Higgins, 2022</i>. If you would like to use these images for noncommercial purposes, please credit me and <a href="/photography/">link to this page</a>. <i>Please do not use these images for commercial purposes.</i></font>
+      </div>
+    </main>
+
+  {%-if site.goat_counter and jekyll.environment == "production"-%}
+    {%-include goat_counter.html-%}
+  {%-endif-%}
+
+      <script src="{{ '/assets/js/evil-icons.min.js' | prepend: site.baseurl }}"></script>
+
+  </body>
+</html>

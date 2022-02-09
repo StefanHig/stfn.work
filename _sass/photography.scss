@@ -1,0 +1,108 @@
+// -------------- THEME SWITCHER -------------- //
+@mixin dark-appearance {
+  filter: invert(1);
+  img {
+    filter: invert(1);
+
+    &.ioda { filter: invert(0); }
+  }
+}
+
+body[a="dark"] { @include dark-appearance; }
+
+
+@media (prefers-color-scheme: dark) {
+  body[a="auto"] { @include dark-appearance; }
+}
+
+// -------------------------------------------- //
+
+// bg color is also needed in html in order to
+// block body's background propagation
+// see: https://stackoverflow.com/a/61265706
+
+
+html, body { background: #f7ecbb; }
+
+html { height: 100%; }
+
+header {
+  color: #081344;
+  font-family: 'Nunito', sans-serif;
+  font-size: 55px;
+  line-height: 1.4;
+  margin: 0;
+  min-height: 100%;
+  text-align: left;
+}
+
+body {
+  color: #081344;
+  font-family: 'Nunito', sans-serif;
+  font-size: 20px;
+  line-height: 1.4;
+  margin: 0;
+  min-height: 100%;
+  overflow-wrap: break-word;
+  text-align: left;
+}
+
+img {
+  max-width: 100%;
+  display: block;
+  border-radius: 3px;
+}
+
+a:link {
+  color: #4866ea;
+}
+
+a:visited {
+  color: #081344;
+}
+
+// added CSS for unique highlight colours
+::-moz-selection { /* Code for Firefox */
+  color: #f7ecbb;
+  background: #081344;
+}
+
+::selection {
+  color: #f7ecbb;
+  background: #081344;
+}
+
+.w {
+  max-width: 1250px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+.i {
+  max-width: 1250px;
+  text-align: center;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+.container {
+  max-width: 1250px;
+  column-count: 3;
+  column-gap: 19px;
+  margin: 0 auto;
+  padding: 4rem 2rem;
+}
+
+// Makes container 2 columns on smaller screens
+@media screen and (max-width: 800px) {
+  .container {
+    column-count: 2;
+  }
+}
+
+// Makes container 1 column on smallest screens
+@media screen and (max-width: 600px) {
+  .container {
+    column-count: 1;
+  }
+}

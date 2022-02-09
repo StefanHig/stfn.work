@@ -1,0 +1,14 @@
+# For documentation on this file, see:
+# https://github.com/riggraz/no-style-please#customize-the-menu
+
+entries:
+  - title: about me
+    url: /about_me/
+  - title: work
+    url: /work/
+  - title: experience
+    url: /experience/
+  - title: photography
+    url: /photography/
+  - title: about this site
+    url: /about_this_site/

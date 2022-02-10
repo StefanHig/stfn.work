@@ -1,4 +1,4 @@
-# stfn.work
+# [stfn.work](https://www.stfn.work/)
 
 This is a repo for stfn.work, a website for Stefan Higgins.
 

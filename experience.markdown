@@ -4,7 +4,7 @@ title: experience
 permalink: /experience/
 ---
 
-To see my public resume, please visit my [LinkedIn page](https://www.linkedin.com/in/stefan-higgins-25b8a1221/). For other enquires, or to request a PDF copy of my resume (or academic CV), please send me an email at <stef18@shaw.ca>.
+To see my public resume, please visit my [LinkedIn page](https://www.linkedin.com/in/stefan-higgins-25b8a1221/). For other enquiries, or to request a PDF copy of my resume (or academic CV), please send me an email at <stef18@shaw.ca>.
 
 ***
 

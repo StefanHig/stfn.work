@@ -16,7 +16,7 @@ permalink: /photography/phone/
 
 ![a phone sits on a stovetop, and on the phone is a picture of a hand holding 4 squat cucumbers](/assets/img/portfolio/phone/cucumber.jpeg)
 
-![an old person and a child play with a ball in a park by the lake, toronto, ontario](/assets/img/portfolio/phone/park.jpeg)
+<!-- ![an old person and a child play with a ball in a park by the lake, toronto, ontario](/assets/img/portfolio/phone/park.jpeg) -->
 
 ![a blurry image of plane seats in the reflection of a plane window](/assets/img/portfolio/phone/plane.jpeg)
 

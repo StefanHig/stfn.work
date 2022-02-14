@@ -5,8 +5,8 @@
     <title>stefan higgins</title>
     
     
-    <link>/https://stfn.work</link>
-    <atom:link href="/https://stfn.work/feed.xml" rel="self" type="application/rss+xml" />
+    <link>http://localhost:4000/</link>
+    <atom:link href="http://localhost:4000/feed.xml" rel="self" type="application/rss+xml" />
     
     
       <item>
@@ -17,8 +17,8 @@
 
         </description>
         <pubDate>Mon, 07 Feb 2022 00:00:00 -0800</pubDate>
-        <link>/https://stfn.work/blur/</link>
-        <guid isPermaLink="true">/https://stfn.work/blur/</guid>
+        <link>http://localhost:4000/blur/</link>
+        <guid isPermaLink="true">http://localhost:4000/blur/</guid>
       </item>
     
   </channel>

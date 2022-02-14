@@ -2,6 +2,8 @@ Gemfile
 Gemfile.lock
 .DS_Store
 _config.yml
+_posts
+archive.md
 .sass-cache
 .jekyll-cache
 .jekyll-metadata

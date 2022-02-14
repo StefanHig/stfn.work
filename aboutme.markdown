@@ -13,4 +13,4 @@ I’m a researcher and communicator on technology and media. I combine technical
 
 In my spare time, I like to read science fiction, take photos (which you can see via the [photography page](/photography)), run, cook (especially soups), and root for the eternally painful-to-watch Vancouver Canucks.
 
-If you'd like to get in touch, just click on the envelope icon in the bottom right!
+If you'd like to get in touch, just click the envelope icon at the bottom right!

@@ -20,11 +20,17 @@ To see my public resume, please visit my [LinkedIn page](https://www.linkedin.co
 
 ### skills
 
-* Data analysis (spreadsheets, SQL, R; intermediate)
-* Python (intermediate)
-* Web development (this website!)
-* Adobe CC (intermediate)
-* Quantitative and qualitative methods for social sciences
+| Experienced | Knowledgeable |
+| ----------- | ------------- |
+| Atom        | Python
+| Sublime Text | R
+| HTML        | SQL
+| CSS         | Git (porcelain)
+| Markdown    | GitHub
+| Plain language | Unix shell commands
+| YAML        | ArcGIS
+| Jekyll      | Adobe CC
+| qualitative methods for social sciences | quantitative methods for social sciences
 
 ### education
 

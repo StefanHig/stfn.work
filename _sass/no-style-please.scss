@@ -28,6 +28,7 @@ html, body { background: #f7ecbb; }
 
 html { height: 100%; }
 
+
 header {
   color: #081344;
   font-family: 'Nunito', sans-serif;
@@ -36,6 +37,14 @@ header {
   margin: 0;
   min-height: 100%;
   text-align: left;
+}
+
+@media screen and (max-width: 600px) {
+  .w > header {
+    color: #081344;
+    font-family: 'Nunito', sans-serif;
+    font-size: 40px;
+  }
 }
 
 body {
@@ -90,12 +99,29 @@ hr {
   &:after { content: attr(data-content) '/////' }
 }
 
-table { width: 100%; }
+table {
+  width:75%;
+  border-spacing:10px;
+  margin:23px
+}
 
-table, th, td {
-  border: thin solid black;
-  border-collapse: collapse;
-  padding: 0.4rem;
+th {
+  border:3px solid #081344;
+  border-radius:4px;
+  padding:10px;
+  text-align:left
+}
+
+td {
+  border-collapse:collapse;
+  padding-left:10px;
+}
+
+@media screen and (max-width: 600px) {
+  .w > table {
+    margin: -10px;
+    padding: 0px;
+  }
 }
 
 // added CSS for unique highlight colours

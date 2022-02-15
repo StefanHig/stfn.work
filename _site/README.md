@@ -1,4 +1,4 @@
-# [stfn.work](stfn.work)
+# [stfn.work](https://stfn.work)
 
 Repository for stfn.work
 

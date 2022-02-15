@@ -4,7 +4,7 @@ title: experience
 permalink: /experience/
 ---
 
-To see my public resume, please visit my [LinkedIn page](https://www.linkedin.com/in/stefan-higgins-25b8a1221/). For other enquiries, or to request a PDF copy of my resume (or academic CV), please send me an email at <stef18@shaw.ca>.
+ You can see a Markdown version of my resume or download a PDF copy [here](https://github.com/StefanHig/Resume){:target="_blank"}, or you can visit my [LinkedIn page](https://www.linkedin.com/in/stefan-higgins-25b8a1221/){:target="_blank"}. For other enquiries please send me an email at <stef18@shaw.ca>.
 
 ***
 
@@ -34,10 +34,12 @@ To see my public resume, please visit my [LinkedIn page](https://www.linkedin.co
 
 ### education
 
-* **MA**, University of Victoria, English (research focus: science and technology studies)
+* **MA**, University of Victoria, English
+  * Research focus: science and technology studies
   * Won prize for best graduate research
   * Won Social Sciences and Humanities Research Council (SSHRC) Canada Graduate Scholarship to support outstanding research
-* **BA**, University of Toronto, Human Geography (research focus: urban policy)
+* **BA**, University of Toronto, Human Geography
+  * Research focus: urban policy and planning
   * Won prize for best undergraduate research in urban policy
 
 ### languages

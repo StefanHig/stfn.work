@@ -4,7 +4,7 @@ title: experience
 permalink: /experience/
 ---
 
- You can see a Markdown version of my resume or download a PDF copy [here](https://github.com/StefanHig/Resume){:target="_blank"}, or you can visit my [LinkedIn page](https://www.linkedin.com/in/stefan-higgins-25b8a1221/){:target="_blank"}. For other enquiries please send me an email at <stef18@shaw.ca>.
+ You can see a Markdown version of my resume or download a PDF copy [here](https://github.com/StefanHig/Resume){:target="_blank"}, or you can visit my [LinkedIn page](https://www.linkedin.com/in/stefan-higgins-25b8a1221/){:target="_blank"}. For other enquiries please send me an email at <stefanachiggins@gmail.com>.
 
 ***
 

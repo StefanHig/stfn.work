@@ -40,6 +40,8 @@ permalink: /photography/places/
 
 ![a close-up of a trillium flower](/assets/img/portfolio/places/trillium.jpeg)
 
+![a softly lit kitchen](/assets/img/portfolio/new/kitchen.jpg)
+
 ![people walk in the snow, trinity bellwoods park, toronto](/assets/img/portfolio/places/trinbellwoods2.jpeg)
 
 ![kids play in the snow, trinity bellwoods park, toronto](/assets/img/portfolio/places/trinitybellwoods2.jpeg)

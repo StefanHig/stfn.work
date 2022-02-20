@@ -8,7 +8,9 @@ permalink: /photography/people/
 
 ![people out for a walk on dallas road, victoria](/assets/img/portfolio/people/dallas-road.jpeg)
 
-![orone at night, lying in the grass](/assets/img/portfolio/people/dorone1.jpeg)
+![dorone at night, lying in the grass](/assets/img/portfolio/people/dorone1.jpeg)
+
+![a person walks through a cemetary on a snowy, sunny day](/assets/img/portfolio/new/penelope.jpg)
 
 ![dorone at night, sitting in front of a fence](/assets/img/portfolio/people/dorone2.jpeg)
 
@@ -19,6 +21,8 @@ permalink: /photography/people/
 ![hamish smoking a cigarette at botanical beach](/assets/img/portfolio/people/hamish.jpeg)
 
 ![hamish and raffi eating breakfast on the beach](/assets/img/portfolio/people/hr-eating.jpeg)
+
+![a long exposure photography of people on a stairway, madrid](/assets/img/portfolio/new/madridmuseum.jpg)
 
 ![hamish and raffi sitting on a rock](/assets/img/portfolio/people/hr.jpeg)
 
